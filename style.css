@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(214, 214, 214)
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+img {
+    width: 40%;
+    height: 40%;
+}
+
+td {
+    border: 3px solid;
+}
+
+table {
+    border: 3px solid;
+}
